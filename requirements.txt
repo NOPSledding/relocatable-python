@@ -1,0 +1,2 @@
+pyOpenSSL==20.0.1
+pyobjc-framework-SystemConfiguration==7.3
